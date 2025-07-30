@@ -24,7 +24,7 @@ function App() {
         <section>
           <h2>Contact Us</h2>
           <p>Email: info@pacificcustoms.com.fj</p>
-          <p>Phone: +679 123 4567</p>
+          <p>Phone: +679 337 2901</p>
           <a href="https://www.facebook.com/pacificcustomsagencies" target="_blank" rel="noopener noreferrer">
             Visit us on Facebook
           </a>
